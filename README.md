@@ -7,7 +7,7 @@
 
 <td width="230" align="center" valign="middle">
 
-<img src="https://w7.pngwing.com/pngs/114/269/png-transparent-urgikids-organization-management-customer-service-highly-miscellaneous-text-trademark.png" width="200"><br>
+<img src="https://www.farescd.com/wp-content/uploads/2022/11/Sejda-PDF-Desktop-Pro.png" width="200"><br>
 
 <a href="https://mac-apps-install.github.io/.github/sejda-pdf-desktop">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
@@ -24,7 +24,7 @@
 
 <td align="center" valign="middle">
 
-<img src="https://images.filepuma.com/screenshots/business/sejda_pdf_desktop_64bit/wa_FP-sejda_pdf_desktop_64bit_f1c67cd27bd6bf9c82395741399.png" width="500">
+<img src="https://www.sejda.com/images/pages/pdf-editor/type-signature.png" width="500">
 
 </td>
 
